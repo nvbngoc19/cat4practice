@@ -1,0 +1,124 @@
+{
+  "geometry": {
+    "overlap": true,
+    "crossing": true
+  },
+  "responsiveStyles": true,
+  "generated": {
+    "Su": 1000,
+    "Kem": 1000
+  },
+  "advanced": {
+    "arrows": 465,
+    "curves": 460
+  },
+  "rules": {
+    "rotate45": 94,
+    "sidesMinus1": 93,
+    "curveScaleDown": 106,
+    "arrowDirectionsQuarterTurn": 87,
+    "componentMinus1": 81,
+    "scaleDown": 102,
+    "componentCountInvariant": 58,
+    "componentPlus1": 84,
+    "sidesPlus1": 119,
+    "curveAddLoop": 107,
+    "moveCW": 111,
+    "rotate270": 82,
+    "filledParityInvariant": 74,
+    "reflectV": 101,
+    "arrowAddOne": 137,
+    "arrowSwapDirections": 108,
+    "arrowGroupRotate90": 139,
+    "addLayer": 95,
+    "arrowInvertAll": 108,
+    "curveReflectH": 124,
+    "curveRotate90": 106,
+    "arrowRemoveOne": 120,
+    "scaleUp": 92,
+    "moveCCW": 126,
+    "rotate180": 89,
+    "dotPlus1": 94,
+    "dotMinus1": 103,
+    "swapParts": 100,
+    "curveAddLobe": 108,
+    "curveRemoveLobe": 26,
+    "arrowMoveCW": 163,
+    "reflectH": 91,
+    "curveAddBend": 107,
+    "removeLayer": 73,
+    "dotParityInvariant": 62,
+    "curveScaleUp": 95,
+    "curveRemoveLoop": 38,
+    "rotate90": 72,
+    "fillInvert": 101,
+    "lineWeightUp": 87
+  },
+  "formats": {
+    "matrix": 143,
+    "analogy": 506,
+    "sequence": 382,
+    "odd-one-out": 160,
+    "matching": 508,
+    "transformation": 157,
+    "spatial-arrangement": 144
+  },
+  "difficulty": {
+    "Su": {
+      "1": 138,
+      "2": 584,
+      "3": 278
+    },
+    "Kem": {
+      "2": 9,
+      "3": 453,
+      "4": 372,
+      "5": 166
+    }
+  },
+  "ruleCounts": {
+    "Su": {
+      "1": 709,
+      "2": 291
+    },
+    "Kem": {
+      "1": 43,
+      "2": 475,
+      "3": 349,
+      "4+": 133
+    }
+  },
+  "semantic": {
+    "Su": {
+      "unique": 395,
+      "duplicates": 605,
+      "uniqueRuleCombinations": 242
+    },
+    "Kem": {
+      "unique": 818,
+      "duplicates": 182,
+      "uniqueRuleCombinations": 656
+    }
+  },
+  "renderChecks": 16015,
+  "legacyFamilies": {
+    "passed": 62,
+    "failed": []
+  },
+  "timedTests": {
+    "passed": 100,
+    "failed": [],
+    "questions": 2400,
+    "duplicates": 0,
+    "recentWindowDuplicates": 0,
+    "globalUnique": 1626,
+    "globalDuplicates": 774,
+    "advancedArrows": 430,
+    "advancedCurves": 475
+  },
+  "reproducibility": {
+    "sameSeed": true,
+    "differentSeeds": true
+  },
+  "solverFailures": 0
+}
